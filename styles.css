@@ -1,0 +1,49 @@
+body{
+    background-color: #bdbdbd;
+    margin: 0;
+}
+
+.container-main{
+    background-color: grey;
+}
+
+h1{
+    margin: 0;
+    padding: 10px;
+}
+
+img{
+    width: 600px;
+}
+
+.post1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container-body{
+    width:600px;
+    margin: auto;
+    background-color: white;
+}
+
+.container-body h3, p{
+    padding: 10px;
+    margin: 0;
+}
+
+.post1 .post-header{
+    border-style: solid;
+}
+
+.post1 .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+.post1 .post-header div:last-child{
+    display: inline-block;
+    width:18%;
+    text-align: right;
+    color: grey;
+}
+
